@@ -99,9 +99,6 @@
   margin-top: 0.5rem!important;
   margin-bottom: 1rem;
 }
-.page-numbers{
-  margin-top: 15px;
-}
 .footer-content{
   background-color: rgba(17,39,65,255);
   color: rgb(255, 255, 255);
@@ -125,16 +122,13 @@
     font-size: 0.9rem;
   }
   .demo-con{ 
-    width: 70%!important;
+    width: 80%!important;
   }
 }
 @media(max-width: 576px){
   .heading-content{
     width: 70%!important;
-  }
-  .demo-con{ 
-    width: 100%!important;
-  }
+  }s
   .home-link{
     font-size: 0.7rem!important;
     width: 40px;
@@ -181,3 +175,4 @@
     font-size: 0.6rem!important;
   }
 }
+
